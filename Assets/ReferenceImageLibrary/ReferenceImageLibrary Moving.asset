@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary Moving
+  m_EditorClassIdentifier: 
+  m_GuidLow: 4818934391785758220
+  m_GuidHigh: 174441804823935648
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5654152343255604770
+      m_GuidHigh: 7654843704461487750
+    m_SerializedTextureGuid:
+      m_GuidLow: 16475464742356864740
+      m_GuidHigh: 14826304477916427434
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: gtu hw 1 moving 3D2D object
+    m_Texture: {fileID: 0}
